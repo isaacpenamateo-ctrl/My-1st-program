@@ -1,0 +1,15 @@
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\bin\Debug\net10.0\My 1st Program.exe
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\bin\Debug\net10.0\My 1st Program.deps.json
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\bin\Debug\net10.0\My 1st Program.runtimeconfig.json
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\bin\Debug\net10.0\My 1st Program.dll
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\bin\Debug\net10.0\My 1st Program.pdb
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\My 1st Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\My 1st Program.AssemblyInfoInputs.cache
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\My 1st Program.AssemblyInfo.cs
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\My 1st Program.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\My 1st Program.dll
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\refint\My 1st Program.dll
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\My 1st Program.pdb
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\My 1st Program.genruntimeconfig.cache
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\ref\My 1st Program.dll
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\My 1st P.0E0CCFCA.Up2Date
