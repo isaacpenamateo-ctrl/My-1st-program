@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.Design;
+﻿
 
 List<int> Numbers = new List<int>();
 decimal result = 0;
@@ -50,7 +50,7 @@ try
 
                     result += Numbers[i];
                 }
-
+                Console.WriteLine($"Tu resultado es {result}");
                 break;
 
             case 2:
@@ -79,7 +79,7 @@ try
 
                     result -= Numbers[i];
                 }
-
+                Console.WriteLine($"Tu resultado es {result}");
                 break;
 
 
@@ -110,6 +110,7 @@ try
 
                     result *= Numbers[i];
                 }
+                Console.WriteLine($"Tu resultado es {result}");
 
                 break;
 
@@ -141,6 +142,7 @@ try
 
                     result /= Numbers[i];
                 }
+                Console.WriteLine($"Tu resultado es {result}");
                 break;
 
 
@@ -180,6 +182,7 @@ try
                 {
                     Console.WriteLine("Manito te quemaste");
                 }
+                Console.WriteLine($"Tu resultado es {result}"); 
 
                 break;
 
@@ -195,7 +198,7 @@ try
                 break;
 
         }
-        Console.WriteLine($"Tu resultado es {result}");
+        
 
     }
 }

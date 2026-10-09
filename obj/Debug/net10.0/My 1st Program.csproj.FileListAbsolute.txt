@@ -13,3 +13,4 @@ C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debu
 C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\My 1st Program.genruntimeconfig.cache
 C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\ref\My 1st Program.dll
 C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\My 1st P.0E0CCFCA.Up2Date
+C:\Users\isaac\source\repos\programacion1\My 1st Program\My 1st Program\obj\Debug\net10.0\My 1st Program.sourcelink.json
